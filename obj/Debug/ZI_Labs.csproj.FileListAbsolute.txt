@@ -1,0 +1,9 @@
+c:\users\владислав\documents\visual studio 2013\Projects\ZI_Labs\ZI_Labs\bin\Debug\ZI_Labs.exe.config
+c:\users\владислав\documents\visual studio 2013\Projects\ZI_Labs\ZI_Labs\bin\Debug\ZI_Labs.exe
+c:\users\владислав\documents\visual studio 2013\Projects\ZI_Labs\ZI_Labs\bin\Debug\ZI_Labs.pdb
+c:\users\владислав\documents\visual studio 2013\Projects\ZI_Labs\ZI_Labs\obj\Debug\ZI_Labs.csprojResolveAssemblyReference.cache
+c:\users\владислав\documents\visual studio 2013\Projects\ZI_Labs\ZI_Labs\obj\Debug\ZI_Labs.Form1.resources
+c:\users\владислав\documents\visual studio 2013\Projects\ZI_Labs\ZI_Labs\obj\Debug\ZI_Labs.Properties.Resources.resources
+c:\users\владислав\documents\visual studio 2013\Projects\ZI_Labs\ZI_Labs\obj\Debug\ZI_Labs.csproj.GenerateResource.Cache
+c:\users\владислав\documents\visual studio 2013\Projects\ZI_Labs\ZI_Labs\obj\Debug\ZI_Labs.exe
+c:\users\владислав\documents\visual studio 2013\Projects\ZI_Labs\ZI_Labs\obj\Debug\ZI_Labs.pdb
